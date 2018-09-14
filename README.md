@@ -1,4 +1,4 @@
-# gazpromneft-report
+# gazprom-without-neft-report
 
 ТЕКУЩАЯ ВЕРСИЯ ОТЧЁТА: http://bit.ly/compile_gazpromneft
 
